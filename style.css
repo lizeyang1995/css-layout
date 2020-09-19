@@ -12,3 +12,17 @@ ul {
     margin: 0;
     padding: 0;
 }
+
+header {
+    position: fixed;
+    width: 100%;
+    background-color: black;
+    height: 70px;
+}
+
+header img {
+    border-radius: 30px;
+    position: fixed;
+    top: 5px;
+    left: 2%;
+}
