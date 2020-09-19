@@ -26,3 +26,26 @@ header img {
     top: 5px;
     left: 2%;
 }
+
+header h1 {
+    color: white;
+    text-align: center;
+    width: 300px;
+    line-height: 70px;
+    margin: 0 auto;
+}
+
+header ul {
+    position: fixed;
+    right: 4%;
+    top: 20px;
+}
+
+header li {
+    display: inline;
+}
+
+header a {
+    text-decoration: none;
+    color: white;
+}
