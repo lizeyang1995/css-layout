@@ -80,3 +80,12 @@ main #relationship img {
     margin-bottom: 20px;
     height: 400px;
 }
+
+footer {
+    background-color: gray;
+    text-align: center;
+    height: 50px;
+    padding: 20px;
+    line-height: 50px;
+    font-weight: 700;
+}
