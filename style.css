@@ -49,3 +49,34 @@ header a {
     text-decoration: none;
     color: white;
 }
+
+main {
+    padding-top: 70px;
+}
+
+main #description {
+    padding: 50px 200px;
+    background-color: lightgray;
+}
+
+main #description img {
+    float: left;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    height: 550px;
+}
+
+main #description .description-p2 {
+    clear: both;
+}
+
+main #relationship {
+    padding: 50px 200px;
+}
+
+main #relationship img {
+    float: right;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    height: 400px;
+}
